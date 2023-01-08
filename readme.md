@@ -21,3 +21,5 @@ Configure hotkeys and their reaction by editing the script itself. To add a new 
 ```bash
 python3 mouse_mover_with_hotkey.py
 ````
+
+To automatically start the script at login, follow the [macOS User Guide](https://support.apple.com/en-gb/guide/mac-help/mh15189/mac).
